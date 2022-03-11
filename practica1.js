@@ -1,7 +1,7 @@
 var dato = Number (prompt("Ingresa un número"))
 dato = (dato*2)
 console.log(dato)
-
+//
 
 
 var dato1 = Number (prompt("Ingresa un número"))
